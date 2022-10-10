@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Javier Gallegos a passionate student who likes computers.
-I am currently coursing my third year of my major in information technology engineering. 
-My goal is to learn new things and expand my knowledge in web design as well as improving my English skills.
+- 👋 Hi, I’m Javier GallegosI am a passionate student who loves computers. 
+I recently finished my major in information technologies engineering at Universidad Técnica Nacional. 
+I aim to learn new things, expand my knowledge using new technologies, and improve my English skills. 
+I developed some websites using technologies such as HTML, CSS, JavaScript, Bootstrap, and WordPress.
 
 - 👀 I’m interested in learn and work with people who can teach me more about web design.
 
